@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Macro Studio</string>
+    <string name="accessibility_description">Performs user-configured touch gestures when explicitly started.</string>
+</resources>
